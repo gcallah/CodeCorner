@@ -1,0 +1,14 @@
+        <div style="text-align:center">
+            <figure class="logo">
+				<img
+				src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Apple_II_Monitor.png" width="10%"><img
+				src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Apple_II_Monitor.png" width="10%"><img
+				src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Apple_II_Monitor.png" width="10%"><img
+				src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Apple_II_Monitor.png" width="10%"><img
+				src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Apple_II_Monitor.png" width="10%"><img
+				src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Apple_II_Monitor.png" width="10%"><img
+				src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Apple_II_Monitor.png" width="10%"><img
+				src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Apple_II_Monitor.png" width="10%">
+			</figure>
+        </div>
+
