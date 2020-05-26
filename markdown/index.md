@@ -10,11 +10,12 @@
 <!--include logo.txt -->
 <!--include menu.txt -->
 
-<h1>Code Corner</h1>
-<h2>Topics</h2>
-<ul>
-<li><a href="interface_cutover.html">Cutting over an interface</a></li>
-<li>More to come!</li>
-</ul>
+# Code Corner
+
+## Topics
+
+- [Cutting over an interface](interface_cutover.html)
+- More to come!
+
 </body>
 </html>
