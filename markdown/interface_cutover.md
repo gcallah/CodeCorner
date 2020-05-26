@@ -48,7 +48,17 @@ The process I will show you goes:
 2. Test the new interface.
 3. Re-write the old interface so that *it is a front for the new interface*.
 4. Test the system with this "new-old" interface in place. (Note: we haven't
-   yet touched any application code, just library code!)
+   yet touched any application code, just library code! Also, the application
+   at this point is *actually using the new interface*... just *through* the
+   old interface.)
+5. Change *one module* of the application to directly use the new interface.
+6. Test that module.
+7. Repeat 5. and 6. until all modules are using the new interface.
+8. Delete the old interface.
+
+OK, now let's actually see how this works with some real code. The example I
+will show you is pretty simple... but that's good! It let's us see the steps
+very clearly. But the same steps apply to more complex interfaces.
 
 </body>
 </html>
